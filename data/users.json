@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "user_name": "gonzager",
+    "enabled": true,
+    "edad": 50
+  },
+  {
+    "id": 2,
+    "user_name": "safropab",
+    "enabled": true,
+    "edad": 55
+  },
+  {
+    "id": 3,
+    "user_name": "bancoElv",
+    "enabled": true,
+    "edad": 44
+  }
+]
